@@ -1,2 +1,2 @@
 # PI
-algo
+Estudos de projetos interdiciplinares
